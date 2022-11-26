@@ -1,3 +1,6 @@
+My solution to this [coding challenge](https://ev-energy.notion.site/Backend-Engineer-Coding-challenge-7db6c863e76a4c75984b625e0e0670e8).
+It consists in optimizing the charging schedule of an electric vehicle with regard to cost and CO2 emission.
+
 # Rationale
 
 My goal was to provide a working solution to the exposed problem while spending limited time on it.
